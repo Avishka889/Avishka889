@@ -140,7 +140,7 @@ I am driven by a strong passion for building innovative and scalable digital sol
 
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishka889&custom_title=Lochana's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishka889&custom_title=Avishka's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br>
 <br>
 <p  align="center">
