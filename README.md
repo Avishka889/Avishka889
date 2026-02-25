@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Lochana Lithira</h1>
 <h3 align="center">A Passionate Machine Learning & Data Science Enthusiast from Sri Lanka</h3>
 <p align="center">
-I am deeply fascinated by how intelligent systems 🤖 and data-driven technologies 📊 are transforming the modern world. Witnessing the rapid evolution of Machine Learning and Artificial Intelligence inspired me to pursue software engineering with a focus on ML and Data Science. My passion continues to grow as I explore new algorithms, analyze real-world data, and build innovative solutions that make technology smarter and more impactful 🚀
+I am driven by a strong passion for building innovative and scalable digital solutions that shape the modern world. The rapid advancement of web technologies and full stack development inspired me to pursue Software Engineering with a focus on designing secure, high-performance, and user-centric applications. I continuously challenge myself to improve by architecting robust backend systems, crafting responsive frontends, and delivering impactful solutions that create real value through technology 🚀
 </p>
 
 
