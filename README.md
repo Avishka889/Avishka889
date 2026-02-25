@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Avishka Weerasinghe</h1>
-<h3 align="center">oper | MERN Stack Enthusiast | Software Engineering Undergraduate from Sri Lanka 🇱🇰</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Software Engineering Undergraduate from Sri Lanka 🇱🇰</h3>
 <p align="center">
 I am driven by a strong passion for building innovative and scalable digital solutions that shape the modern world. The rapid advancement of web technologies and full stack development inspired me to pursue Software Engineering with a focus on designing secure, high-performance, and user-centric applications. I continuously challenge myself to improve by architecting robust backend systems, crafting responsive frontends, and delivering impactful solutions that create real value through technology 🚀
 </p>
